@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "2684bf1c8d378097",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9c23675ea163136",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e27e35da097ebc7",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Faculdade - Desenvolvimento WEB/Aula003/27-01-2025-1.webp"
+              },
+              "icon": "lucide-image",
+              "title": "27-01-2025-1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "128e36780b8fdb55",
+    "type": "split",
+    "children": [
+      {
+        "id": "613a817e5f1d1e8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08466ce036c26d0c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "8cf1f2a17ec5f197",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "2cfa58bf6385063a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c29405685db1c754",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcf006763a2a491a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36a0ff31cf81f682",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Faculdade - Desenvolvimento WEB/Aula003/27-01-2025-1.webp",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para 27-01-2025-1"
+            }
+          },
+          {
+            "id": "2f11328a34eb8095",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Faculdade - Desenvolvimento WEB/Aula003/27-01-2025-1.webp",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para 27-01-2025-1"
+            }
+          },
+          {
+            "id": "b46b725ea840a600",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "db321fa5cefd613b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Faculdade - Desenvolvimento WEB/Aula003/27-01-2025-1.webp",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de 27-01-2025-1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "8e27e35da097ebc7",
+  "lastOpenFiles": []
+}
