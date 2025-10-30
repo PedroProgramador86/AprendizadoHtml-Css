@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assisencia de Livros</title>
+</head>
+<body>
+    
+    <h1>Assistencia de Livros</h1>
+
+    <input type="text" id="meuid"> <!--Cabeçalho-->
+    <button id ="btnBuscar">Buscar</button> <!--Botão-->
+
+    <script>
+        var entradaDeTexto = document.getElementById("meuId")
+        var titulo = document.getElementById("titulo")
+        var autor = document.getElementById("autor")
+        var btnBuscar = document.getElementById("btnBuscar")
+
+        btnBuscar.addEventListener("click", ()=>{
+            fetch("https://livros.acilab.com.br/api/livros/" + entradaDeTexto.var <!--Faltando codigo aqui-->
+            .then(response => response.json())
+            .then(data=>{
+                titulo.innerHTML = data.titulo
+                autor.innerHTML = data.autor
+            })
+        })
+
+
+        fetch ('https :// api . exemplo .com / usuarios ')
+.then ( response = > response . json () )
+.then ( data = > {
+console .log ('Usu á rios :', data ) ;
+})
+.catch ( error = > {
+console . error ('Erro :', error ) ;
+8 }) ;
+
+
+
+    </script>
+
+</body>
+</html>
